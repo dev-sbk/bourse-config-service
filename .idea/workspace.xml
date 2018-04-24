@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36c23744-3065-4fea-a943-4abac9a6dc19" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/bourse-company-proxy-service.properties" afterPath="$PROJECT_DIR$/bourse-company-proxy-service.properties" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,11 +13,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="bourse-company-service.properties" pinned="false" current-in-tab="true">
+      <file leaf-file-name="bourse-company-service.properties" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bourse-company-service.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="32" lean-forward="false" selection-start-line="0" selection-start-column="32" selection-end-line="0" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bourse-company-proxy-service.properties" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bourse-company-proxy-service.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="eureka-service.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eureka-service.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -38,6 +58,7 @@
       <list>
         <option value="$PROJECT_DIR$/bourse-company-service.properties" />
         <option value="$PROJECT_DIR$/eureka-service.properties" />
+        <option value="$PROJECT_DIR$/bourse-company-proxy-service.properties" />
       </list>
     </option>
   </component>
@@ -200,12 +221,12 @@
       <option name="presentableId" value="Default" />
       <updated>1524493570889</updated>
       <workItem from="1524493572461" duration="623000" />
-      <workItem from="1524556310848" duration="1549000" />
+      <workItem from="1524556310848" duration="1748000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2172000" />
+    <option name="totallyTimeSpent" value="2371000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="31" width="1368" height="691" extended-state="6" />
@@ -258,6 +279,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/bourse-company-service.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="32" lean-forward="false" selection-start-line="0" selection-start-column="32" selection-end-line="0" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/eureka-service.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -266,10 +295,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bourse-company-service.properties">
+    <entry file="file://$PROJECT_DIR$/bourse-company-proxy-service.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="32" lean-forward="false" selection-start-line="0" selection-start-column="32" selection-end-line="0" selection-end-column="32" />
+          <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
           <folding />
         </state>
       </provider>
